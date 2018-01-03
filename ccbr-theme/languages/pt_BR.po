@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CCW Countries\n"
+"POT-Creation-Date: 2018-01-02 22:31-0200\n"
+"PO-Revision-Date: 2018-01-02 22:31-0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "404 - Not found"
+msgstr "404 - Não Encontrado"
+
+#: 404.php:17 template-parts/content-none.php:17
+msgid "Sorry but we couldn't find the content you were looking for"
+msgstr "Desculpe, mas não pudemos encontrar o conteúdo que estava procurando."
+
+#: 404.php:26
+msgid "Try the navigation menu above or search for the content"
+msgstr "Tente o menu de navegação ou use a ferramenta de busca"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Uma idéia sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s idéias sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Comentários antigos"
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Novos comentários"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Comentários estão fechados"
+
+#: functions.php:43
+msgid "Primary Navigation"
+msgstr "Navegação primária"
+
+#: functions.php:44
+msgid "Footer Nav 1"
+msgstr "Menu Rodapé 1"
+
+#: functions.php:45
+msgid "Footer Nav 2"
+msgstr "Menu Rodapé 2"
+
+#: functions.php:46
+msgid "Footer Nav 3"
+msgstr "Menu Rodapé 3"
+
+#: functions.php:47
+msgid "Footer Nav 4"
+msgstr "Menu Rodapé 4"
+
+#: functions.php:48
+msgid "Club Navigation Menu"
+msgstr "Menu de Navegação de Clubes"
+
+#: inc/club-session.php:25
+msgid "Signed out successfully!"
+msgstr "Desconectado com sucesso!"
+
+#: inc/club-session.php:36
+msgid "You have to be signed in to view this page."
+msgstr "Você precisa estar logado para ver essa página."
+
+#: inc/helpers.php:54
+msgid "Something went wrong, please try again later."
+msgstr "Alguma coisa de errado aconteceu, por favor tente de novo mais tarde."
+
+#: inc/host-volunteer-matching-transient.php:19
+#: inc/host-volunteer-matching.php:24
+msgid "Could not resolve the address"
+msgstr "Não consigo encontrar o endereço."
+
+#: inc/host-volunteer-matching-transient.php:32
+#: inc/host-volunteer-matching.php:34
+msgid "No code clubs found."
+msgstr "Nenhum code club encontrado."
+
+#: inc/set-up/menu-setup.php:9
+msgid "Your Account"
+msgstr "Seu Perfil"
+
+#: inc/set-up/menu-setup.php:10
+msgid "Sign Out"
+msgstr "Sair"
+
+#: inc/set-up/menu-setup.php:12 template-sign-in.php:9
+msgid "Sign In"
+msgstr "Entrar"
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Postado em %s"
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tags %1$s"
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Deixar um comentário"
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: inc/template-tags.php:71
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de busca para: %s"
+
+#: template-club-edit.php:12
+msgid "Edit"
+msgstr "Editar"
+
+#: template-club.php:14 template-parts/club/show-club.php:3
+msgid "Account"
+msgstr "Perfil"
+
+#: template-contact.php:12 template-parts/club/show-club.php:13
+msgid "Contact"
+msgstr "Contato"
+
+#: template-forgotten-sign-in-details.php:10
+msgid "Forgotten Sign In Details"
+msgstr "Detalhes de login esquecidos"
+
+#: template-parts/club/club-materials.php:3
+msgid "Club Resources"
+msgstr "Recursos para Clubes"
+
+#: template-parts/club/club-materials.php:4
+msgid ""
+"Here you can access resources, materials and guidance to help you run your "
+"Code Club."
+msgstr ""
+"Aqui você pode encontrar recursos, materiais e guias para ajudar a conduzir "
+"seu Code Club."
+
+#: template-parts/club/club-materials.php:6
+msgid "Get Materials"
+msgstr "Pegar Materiais"
+
+#: template-parts/club/form-edit-club.php:24
+msgid "Successfully edited!"
+msgstr "Editado com Sucesso!"
+
+#: template-parts/club/form-edit-club.php:34
+msgid "Contact details:"
+msgstr "Detalhes de contato:"
+
+#: template-parts/club/form-edit-club.php:37
+#: template-parts/club/form-register-a-club.php:42
+#: template-parts/club/form-register-a-venue.php:43
+#: template-parts/form-contact.php:39
+msgid "Your name"
+msgstr "Seu nome"
+
+#: template-parts/club/form-edit-club.php:48
+#: template-parts/club/form-register-a-club.php:54
+#: template-parts/club/form-register-a-venue.php:55
+msgid "Your email address"
+msgstr "Seu e-mail"
+
+#: template-parts/club/form-edit-club.php:59
+msgid ""
+"Your name and email address will never \n"
+"                                                            be displayed "
+"publicly"
+msgstr ""
+"Seu nome e e-mail nunca \n"
+"                                                            será exibido "
+"publicamente."
+
+#: template-parts/club/form-edit-club.php:85
+msgid "Venue details:"
+msgstr "Detalhes do local"
+
+#: template-parts/club/form-edit-club.php:88
+#: template-parts/club/form-register-a-club.php:104
+#: template-parts/club/form-register-a-venue.php:89
+msgid "Venue name"
+msgstr "Nome do local"
+
+#: template-parts/club/form-edit-club.php:101
+#: template-parts/club/show-club.php:38
+msgid "Looking for Volunteer"
+msgstr "Buscando voluntários"
+
+#: template-parts/club/form-edit-club.php:114
+#: template-parts/club/show-club.php:45
+msgid "Happy to be contacted"
+msgstr "Gostaria de ser contactado"
+
+#: template-parts/club/form-edit-club.php:125
+#: template-parts/club/form-register-a-club.php:115
+#: template-parts/club/form-register-a-venue.php:100
+msgid "Venue website"
+msgstr "Website"
+
+#: template-parts/club/form-edit-club.php:136
+#: template-parts/club/form-register-a-club.php:126
+#: template-parts/club/form-register-a-venue.php:111
+msgid "Street address 1"
+msgstr "Endereço"
+
+#: template-parts/club/form-edit-club.php:147
+#: template-parts/club/form-register-a-club.php:137
+#: template-parts/club/form-register-a-venue.php:122
+msgid "Street address 2"
+msgstr "Endereço (complemento)"
+
+#: template-parts/club/form-edit-club.php:157
+#: template-parts/club/form-register-a-club.php:147
+#: template-parts/club/form-register-a-venue.php:132
+msgid "Town / City:"
+msgstr "Cidade:"
+
+#: template-parts/club/form-edit-club.php:168
+msgid "Region / State:"
+msgstr "Estado:"
+
+#: template-parts/club/form-edit-club.php:178
+msgid "Postcode / Zipcode"
+msgstr "CEP"
+
+#: template-parts/club/form-edit-club.php:188
+msgid "Club Skype username"
+msgstr "Skype:"
+
+#: template-parts/club/form-register-a-club.php:29
+#: template-parts/club/form-register-a-venue.php:30
+msgid "Your club has now been registered"
+msgstr "Seu clube agora está registrado"
+
+#: template-parts/club/form-register-a-club.php:39
+#: template-parts/club/form-register-a-venue.php:40
+msgid "Contact details"
+msgstr "Detalhes de contato"
+
+#: template-parts/club/form-register-a-club.php:68
+msgid "Are you a host or a volunteer?"
+msgstr "Você é um anfitrião ou um voluntário?"
+
+#: template-parts/club/form-register-a-club.php:70
+msgid "Host"
+msgstr ""
+
+#: template-parts/club/form-register-a-club.php:70
+msgid "Volunteer"
+msgstr ""
+
+#: template-parts/club/form-register-a-club.php:82
+#: template-parts/club/form-register-a-venue.php:67
+msgid "Your name and email address will never be displayed publicly"
+msgstr "Seu nome e e-mail nunca serão exibidos publicamente"
+
+#: template-parts/club/form-register-a-club.php:101
+#: template-parts/club/form-register-a-venue.php:86
+msgid "Venue details"
+msgstr "Detalhes do local"
+
+#: template-parts/club/form-register-a-club.php:158
+#: template-parts/club/form-register-a-venue.php:143
+#: template-parts/club/show-club.php:67
+msgid "Region"
+msgstr "Estado"
+
+#: template-parts/club/form-register-a-club.php:168
+#: template-parts/club/form-register-a-venue.php:153
+#: template-parts/club/show-club.php:71
+msgid "Postcode"
+msgstr "CEP"
+
+#: template-parts/club/form-register-a-club.php:179
+msgid "Are you a happy for people to be able to contact your club?"
+msgstr "Você autoriza pessoas entrarem em contato para conhecer seu clube?"
+
+#: template-parts/club/form-register-a-club.php:181
+#: template-parts/club/form-register-a-club.php:182
+#: template-parts/club/form-register-a-venue.php:166
+#: template-parts/club/form-register-a-venue.php:167
+msgid "Yes"
+msgstr "Sim"
+
+#: template-parts/club/form-register-a-club.php:181
+#: template-parts/club/form-register-a-venue.php:166
+msgid "No"
+msgstr "Não"
+
+#: template-parts/club/form-register-a-club.php:191
+msgid ""
+"Selecting yes will allow potential volunteers to contact you.\n"
+"    This setting can be changed at any time once your account has been "
+"created."
+msgstr ""
+"Selecionando sim, você irá permitir que potenciais voluntários entre em "
+"contato com você. \n"
+"    Esta configuração pode ser alterada a qualquer momento em sua página de "
+"perfil."
+
+#: template-parts/club/form-register-a-club.php:196
+#: template-parts/club/form-register-a-venue.php:183
+msgid "I accept the"
+msgstr "Eu aceito"
+
+#: template-parts/club/form-register-a-club.php:196
+#: template-parts/club/form-register-a-venue.php:183
+msgid "terms &amp; conditions"
+msgstr "termos &amp; condições"
+
+#: template-parts/club/form-register-a-club.php:207
+msgid "Create a Code Club"
+msgstr "Criar um Code Club"
+
+#: template-parts/club/form-register-a-venue.php:164
+msgid "Are you happy for people to be able to contact your venue?"
+msgstr ""
+"Você autoriza pessoas entrarem em contato para obter informações sobre o "
+"local?"
+
+#: template-parts/club/form-register-a-venue.php:177
+msgid ""
+"Please, select yes so that volunteers can contact you.\n"
+"    Your can change that at any time after you log in to the site."
+msgstr ""
+"Ao selecionar sim, voluntários poderão entrar em contato com você.\n"
+"    Esta configuração pode ser alterada a qualquer momento em sua página de "
+"perfil."
+
+#: template-parts/club/form-register-a-venue.php:194
+#: template-register-a-venue.php:9 template-register.php:26
+msgid "Register a Venue"
+msgstr "Registrar Local"
+
+#: template-parts/club/show-club.php:5
+#: template-parts/club/sign-in/form-sign-in.php:48
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: template-parts/club/show-club.php:15 template-parts/club/show-club.php:33
+msgid "Name"
+msgstr "Nome"
+
+#: template-parts/club/show-club.php:19
+#: template-parts/club/sign-in/form-forgotten-sign-in-details.php:31
+msgid "Email"
+msgstr "E-mail"
+
+#: template-parts/club/show-club.php:23
+msgid "Skype"
+msgstr "Skype"
+
+#: template-parts/club/show-club.php:31
+msgid "Venue"
+msgstr "Local"
+
+#: template-parts/club/show-club.php:51
+msgid "Website"
+msgstr "Site"
+
+#: template-parts/club/show-club.php:55
+msgid "Address 1"
+msgstr "Endereço"
+
+#: template-parts/club/show-club.php:59
+msgid "Address 2"
+msgstr "Endereço (complemento)"
+
+#: template-parts/club/show-club.php:63
+msgid "City"
+msgstr "Cidade"
+
+#: template-parts/club/sign-in/form-first-password.php:20
+#: template-parts/club/sign-in/form-set-new-password.php:20
+msgid "Invalid Auth token. Please request another password."
+msgstr "Auth token inválido. Por favor solicite uma nova senha."
+
+#: template-parts/club/sign-in/form-forgotten-sign-in-details.php:21
+msgid "Please check your inbox for password reset instructions."
+msgstr ""
+"Por favor verifique seus e-mails, enviamos instruções para resetar sua senha."
+
+#: template-parts/club/sign-in/form-forgotten-sign-in-details.php:53
+msgid "No wait I remembered my Club ID and Password!"
+msgstr "Não, pera, eu lembrei meu ID de Clube ou Senha!"
+
+#: template-parts/club/sign-in/form-sign-in.php:30
+msgid "Sign in successful"
+msgstr "Login feito com sucesso!"
+
+#: template-parts/club/sign-in/form-sign-in.php:59
+msgid "Password"
+msgstr "Senha"
+
+#: template-parts/club/sign-in/form-sign-in.php:80
+msgid "I forgot my Club ID or Password!"
+msgstr "Esqueci meu ID de Clube ou Senha!"
+
+#: template-parts/club/sign-in/form-sign-in.php:83
+msgid "I want to register!"
+msgstr "Eu quero cadastrar!"
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: template-parts/content-none.php:29
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto para publicar seu primeiro post? <a href=\"%1$s\">Começe aqui</a>."
+
+#: template-parts/content-none.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas não encontramos nada com o termo buscado. Por favor tente "
+"novamente com novas palavras chave."
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que nós não pudemos encontrar o que você estava procurando. Talvez "
+"uma busca possa ajudá-lo."
+
+#: template-parts/content-page.php:21 template-parts/content.php:38
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/form-contact.php:11
+msgid " Please reply to "
+msgstr " Por favor responder para "
+
+#: template-parts/form-contact.php:13
+msgid "Volunteer has contacted you."
+msgstr "Voluntário entrou em contato com você."
+
+#: template-parts/form-contact.php:20
+msgid "Email has been sent"
+msgstr "E-mail foi enviado."
+
+#: template-parts/form-contact.php:49
+msgid "Your email"
+msgstr "Seu e-mail"
+
+#: template-parts/form-contact.php:59
+msgid "Message"
+msgstr "Mensagem"
+
+#: template-parts/form-contact.php:60 template-parts/shared/label.php:14
+msgid "(required)"
+msgstr "(obrigatório)"
+
+#: template-parts/form-contact.php:67
+msgid "Send Message"
+msgstr "Enviar mensagem."
+
+#: template-parts/page-matching.php:14
+msgid "Find Venue"
+msgstr "Buscar local"
+
+#: template-parts/page-matching.php:17
+msgid "Let's find a venue near you."
+msgstr "Vamos buscar um local perto de você."
+
+#: template-parts/page-matching.php:22
+msgid "Keep this field blank"
+msgstr "Deixar esse campo em branco"
+
+#: template-parts/page-matching.php:26
+msgid "Address"
+msgstr "Endereço"
+
+#: template-parts/page-matching.php:31
+msgid "Search"
+msgstr "Busca"
+
+#: template-parts/page-matching.php:43
+msgid "Search results:"
+msgstr "Resultados de busca:"
+
+#: template-parts/page-matching.php:65
+msgid "Contact Venue"
+msgstr "Responsável pelo local"
+
+#: template-parts/shared/new-password.php:33
+msgid "New password was successfully set"
+msgstr "Nova senha foi alterada com sucesso"
+
+#: template-parts/shared/new-password.php:59
+msgid "Current password"
+msgstr "Senha atual"
+
+#: template-parts/shared/new-password.php:71
+msgid "New password"
+msgstr "Nova senha"
+
+#: template-parts/shared/new-password.php:82
+msgid "New password confirmation"
+msgstr "Nova confirmação de senha"
+
+#: template-parts/shared/new-password.php:99
+msgid "Set New Password"
+msgstr "Definir uma nova senha"
+
+#: template-parts/shared/submit-button.php:20
+msgid "Submit"
+msgstr "Enviar"
+
+#: template-register-a-club.php:9
+msgid "Register a Club"
+msgstr "Registrar um clube"
+
+#: template-register.php:9 template-register.php:19 template-register.php:31
+msgid "Register"
+msgstr "Registrar"
+
+#: template-register.php:15
+msgid "Register an active Code Club"
+msgstr "Registrar um Code Club ativo"
+
+#: template-register.php:27
+msgid "Explanation"
+msgstr "Explicação"
+
+#: template-welcome.php:9
+msgid "Welcome, "
+msgstr "Bem vindo, "
+
+#: template-welcome.php:19
+msgid "Your username is "
+msgstr "Seu usuário é "
+
+#: template-welcome.php:20
+msgid ""
+"You will need this and your password to log in to access your club details."
+msgstr ""
+"Você precisará disso e sua senha para acessar os detalhes do seu clube."
+
+#. Theme Name of the plugin/theme
+msgid "CCW Countries"
+msgstr "CCW Países"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/CodeClub/ccw-countries-wordpress-theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Code Club World Ltd"
+msgstr "Code Club World"
+
+#. Author URI of the plugin/theme
+msgid "https://codeclubworld.org"
+msgstr ""
