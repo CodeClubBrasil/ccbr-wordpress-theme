@@ -12,7 +12,9 @@
  * @package CCW_Countries
  */
 
-get_header(); ?>
+get_header();
+get_gmaps('initMap');
+?>
 
 	<?php get_template_part('template-parts/page', 'header'); ?>
 
@@ -45,5 +47,7 @@ get_header(); ?>
 
     <div id="map"></div>
 
+
 <?php
+get_gmaps_placehold("500px","100%");
 get_footer();	
