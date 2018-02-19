@@ -32,6 +32,22 @@ get_gmaps('initMap');
 		</div>
 	</div>
 
+	<?php wp_enqueue_script( 'maker scripts', get_template_directory_uri() . '/js/marker-clusterer.js' ); ?>
+	<?php wp_enqueue_script( 'parsley scripts', get_template_directory_uri() . '/js/parsley.js' ); ?>
+	<?php wp_enqueue_script( 'app maps scripts', get_template_directory_uri() . '/js/maps.js' ); ?>
+	<?php wp_enqueue_script( 'infobox maps', get_template_directory_uri() . '/js/infobox.js' ); ?>
+
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 300px;
+      }
+    </style>
+
+    <div id="map"></div>
+
+
 <?php
 get_gmaps_placehold("500px","100%");
 get_footer();	

@@ -28,6 +28,8 @@ ob_start();
 <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/images/favicon.png" sizes="32x32">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <script>sitepath='<?php echo get_template_directory_uri(); ?>'</script>
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDoZFn11-WmecouAx2hVxfrAt5wP-XjUPE&callback=initMap" async defer></script>
 </head>
 
 <body <?php body_class(); ?>>
